@@ -1,6 +1,6 @@
 # Mobile BMR App by copter
 
-## โปรเจ็กคำนวน BMR
+## โปรเจ็กคำนวน BMR (UI)
 <kbd>
 <img width="250" alt="Screenshot_20260504_202643_Expo Go" src="https://github.com/user-attachments/assets/e4a8fd59-7e29-47af-9529-cb0959bb4489" />
 
